@@ -19,7 +19,7 @@ module.exports = {
     ],
     script: [
       {
-        src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCQFKwVLvTw3-ovzOWm1UUAHeIVyDkW2t4&libraries=places'
+        src: 'https://maps.googleapis.com/maps/api/js?key=YourApiKey&libraries=places'
       }
     ]
   },
@@ -55,7 +55,7 @@ module.exports = {
     ** You can extend webpack config here
     */
     extend(config, ctx) {
-      
+
     }
   }
 }
