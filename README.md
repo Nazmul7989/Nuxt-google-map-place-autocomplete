@@ -1,4 +1,4 @@
-# test-project
+# Google map place autocomplete
 
 > My majestic Nuxt.js project
 
